@@ -1,7 +1,7 @@
 # Customer-Complaints-Analysis
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post-blue)](https://www.linkedin.com/posts/eromosele-itoya_tableau-datavisualization-customerexperience-activity-7378500174664597504-TF4Y?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEbDOGsBGINDr5uoWo3fkmNHZc_HI1Qst6k)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post-blue)](https://www.linkedin.com/posts/wisdom-douglas_tableau-dataanalytics-customerexperience-ugcPost-7469080360660791297--OSn/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFHEifEBXd66QbKca3n-0IoGRbXlbVjZPYo)
 
 ### Table of Contents
 - [Project Overview](#Project-Overview)
